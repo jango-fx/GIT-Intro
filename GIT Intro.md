@@ -1,7 +1,15 @@
 # GIT Intro
 
-## Getting Started
+## Golden Rules
+1. always PULL first
+2. commit little, commit often
+3. precise and conscious commits
+	- Unity scenes, prefabs, project settings
+4. precise and conscious editing (and saving) in Unity
+5. keep commit messages clean
+	- use ticket / issue numbers
 
+## Getting Started
 1. install git: https://git-scm.com/downloads
 	- Windows: alle default settings außer text editor
 2. get GIT client
