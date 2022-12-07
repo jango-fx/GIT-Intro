@@ -13,10 +13,10 @@
 1. install git: https://git-scm.com/downloads
 	- Windows: alle default settings außer text editor
 2. get GIT client
-	- Source Tree
-	- Fork
-	- GitHub Desktop
-	- Git for Unity
+	- [Sourcetree](https://www.sourcetreeapp.com/)
+	- [Fork](https://git-fork.com/)
+	- [GitHub Desktop](https://desktop.github.com/)
+	- [Git for Unity](https://github.com/spoiledcat/git-for-unity)
 3. setup Unity Project Settings (default)
 	- Version Control / Mode = Visible Meta Files 
 	- Editor / Asset Serialization Mode = Force Text
