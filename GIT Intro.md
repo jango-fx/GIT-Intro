@@ -35,6 +35,7 @@ class:
 	- `git lfs install`
 	- `.gitattributes`
 	- `*.FILETYPE filter=lfs diff=lfs merge=lfs -text`
+	- https://gist.githubusercontent.com/nemotoo/b8a1c3a0f1225bb9231979f389fd4f3f/raw/dc3e8cab80fc62d1c60db70c761b1ffa636aa796/.gitattributes
 ***
 7. GIT remote server
 	1. account, authetification, ssh keys
